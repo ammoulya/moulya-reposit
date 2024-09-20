@@ -1,0 +1,55 @@
+p{
+    font-family:arial;
+    margin-top:0;
+    margin-bottom: 0;
+}
+.vidio-title{
+    
+    font-size: 18px;
+    font-weight: bold;
+    width:280px;
+    line-height:24px;
+    margin-bottom:5px;
+}
+.vidio-stats{
+    font-family:arial;
+    font-size:14px;
+    color:rgb(96,96,96);
+    margin-bottom:20px;
+}
+.vidio-author{
+    font-family:arial;
+    font-size:14px;
+    color:rgb(96,96,96);
+    
+    margin-bottom:20px;
+}
+.vidio-discription{
+    font-family:arial;
+    font-size:14px;
+    color:rgb(96,96,96);
+    width:280px;
+    line-height:22px;
+    margin-top:0;
+    margin-bottom:100px;
+
+}
+.apple-text{
+    margin-bottom:50px;
+    font-size:14px;
+    background-color: rgb(227,65,64);
+    color:white;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:18px;
+    
+
+}
+.link{
+    cursor:pointer;
+    
+}
+.link:hover{
+    text-decoration:underline;
+
+}
